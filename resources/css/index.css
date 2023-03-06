@@ -1,0 +1,35 @@
+.navbar{
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+.navbar a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.banner {
+    background-color:blueviolet;
+    color: white;
+    margin-top: 75 px;
+    padding: 50px 10px;
+
+}
+
+#picture{
+    height: 200px;
+    width: 200px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+h2 {
+    color: green;
+    font-size: 29px;
+}
